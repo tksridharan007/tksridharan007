@@ -27,9 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tksridharan007&" alt="tksridharan007" /></p>
 
-<a href="https://github.com/tksridharan007/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tksridharan007&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/tksridharan007/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tksridharan007&repo=convoychat" />
-</a>
