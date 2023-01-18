@@ -5,7 +5,7 @@
 
 - 🚀 Data Science and ⚛ Machine Learning Enthusiast from Pollachi, India.
 
-- 🙍🏽‍♂️ Current: Looking for Internship in 2023.
+- 🙍🏽‍♂️ Current: Looking for 6 Month(July to December) Internship in 2023.
 
 - 📦 Passionate about learning new things and how-stuff-works besides programming.
 
