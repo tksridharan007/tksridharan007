@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sri Dharan TK</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tksridharan007&label=Profile%20views&color=0e75b6&style=flat" alt="tksridharan007" /> </p>
 <img align="right" alt="Coding" width="400" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif">
 
 
