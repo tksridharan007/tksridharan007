@@ -26,8 +26,9 @@
 ### Github Stats:
 ![Sri Dharan's github stats](https://github-readme-stats.vercel.app/api?username=tksridharan007&show_icons=true&hide_border=true&theme=tokyonight)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tksridharan007&" alt="tksridharan007" /></p>
+
 ---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tksridharan007" alt="tksridharan007" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tksridharan007&" alt="tksridharan007" /></p>
